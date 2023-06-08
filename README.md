@@ -1,4 +1,4 @@
-# BBHT
+# RAVAN
 
 Bug Bounty Hunting Tools is a script to install the most popular tools used while looking for vulnerabilities for a bug bounty program.
  
@@ -28,6 +28,6 @@ https://github.com/RedTeamClub/Ravan
 
 # Installing
 - git clone https://github.com/RedTeamClub/Ravan
-- cd bbht
+- cd RAVAN
 - chmod +x install.sh
 - ./install.sh
